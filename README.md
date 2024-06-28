@@ -1,4 +1,4 @@
-# Wallet Genarator
+# Wallet Generator
 
 Este código fonte é um gerador de carteiras digitais, escrito em Javascript para ser utilizado na rede de testes do Bitcoin.
 
